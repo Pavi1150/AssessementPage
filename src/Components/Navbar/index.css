@@ -1,0 +1,4 @@
+.dropdown-menu {    
+    min-width: 56rem !important;    
+    transform: translate3d(-180px, 37.6px, 0px) !important;
+}

@@ -1,0 +1,82 @@
+.product-title{
+    
+font-weight: 700;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0.5px;
+color: #223263;
+}
+.zoom{
+    color: #FFC600 !important;
+}
+.zoom:hover {    
+    color: rgb(0, 157, 255) !important;
+    transform: scale(1.5); 
+}
+.strike-price{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    text-decoration-line: line-through;
+    color: #9098B1;
+  }
+  .color-orange{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #FB7181;
+  }
+  .color-blue{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 180%;
+    letter-spacing: 0.5px;
+    color: #40BFFF;
+  }
+ .border-remove{
+  border: none;
+  outline: none;
+  background: none;
+ }
+ 
+ .card-8{
+   position: relative;
+  width: 91% !important;
+  left: 5%;
+ } 
+ .image-wrapper {
+	position: relative;
+	display: inline-block;
+ }
+
+.image-wrapper:hover{
+  
+  background: #FFFFFF;
+opacity: 0.95;
+border: 2px solid #33A0FF;
+}
+
+
+.image-wrapper > img:hover {
+  opacity: 0;
+}
+
+.image-wrapper:hover .edit {
+	display: block;
+}
+.edit {
+	text-align: center;
+	position: relative;
+  bottom: 50px;  
+	display: none;
+}
+.edit a {
+	color:gray;
+}
+.hov:hover{
+  color:white;
+  background-color: rgb(215, 166, 238);        
+  border-radius: 5%;
+}

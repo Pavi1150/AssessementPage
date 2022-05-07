@@ -1,0 +1,87 @@
+.imagetext{
+    position: absolute;
+    top: 45%;
+    left:10%;  
+    color: white;
+    font-size: 64px;   
+  }
+  .bg-img{
+    background-image: url('./assets/Product1.png');
+    background-repeat: no-repeat;   
+    transition: transform .2s; 
+    background-size: cover;
+    height:350px;
+  }
+  .bg-img:hover{
+    transform: scale(1.1);   
+  }
+  .margin-card1{
+    margin-top: 50%;
+  }
+  .marginPrice-card-1{
+    margin-right: 10%;
+  }
+  .card1-text-color
+  {   
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #223263;
+    
+  }
+  .strike-price{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    text-decoration-line: line-through;
+    color: #9098B1;
+  }
+  .color-orange{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #FB7181;
+  }
+  .color-blue{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 180%;
+    letter-spacing: 0.5px;
+    color: #40BFFF;
+  }
+  .card2{
+    background-image: url('./assets/Product2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:350px;
+  }
+  .card2:hover{
+    transform: scale(1.1);
+   
+  }
+  .price-offer{
+    margin-top: 60%;    
+  }
+  .card3{
+    background-image: url('./assets/Product3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:350px;
+  }
+  .card3:hover{
+    transform: scale(1.1);
+   
+  }
+  .margin-pricecard3{
+    margin-left: 69%;
+    margin-top: 50%
+  }
+  .cardPair{
+    position: relative;
+    bottom: 100px;
+  }
+
+  

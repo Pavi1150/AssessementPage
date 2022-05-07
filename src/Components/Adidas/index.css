@@ -1,0 +1,12 @@
+.u-offset{    
+    text-underline-offset: 0.3rem;    
+}
+.backgrounfColorClass{
+    background-color: #40BFFF;
+    color:white;    
+    padding-left: 0%;
+}
+.move{
+    position: relative;
+    bottom: 10%;
+}
